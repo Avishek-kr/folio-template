@@ -310,7 +310,7 @@ Because this template use Webpack maybe you can get errors during deployment, Pl
 
 ## Authors
 
-- **Av$hek Parashar** - [https://github.com/cobidev](https://github.com/Avishek-r)
+- **Av$hek Parashar** - [https://github.com/Avishek-kr](https://github.com/Avishek-kr)
 
 ## Status
 
