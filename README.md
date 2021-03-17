@@ -1,4 +1,4 @@
-# Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/Avishek-kr/folio-template?color=blue)](https://github.com/Avishek-kr/folio-template/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/Avishek-kr/folio-template) ![GitHub forks](https://img.shields.io/github/forks/Avishek-kr/folio-template)
+# folio-template ⚡️ [![GitHub](https://img.shields.io/github/license/Avishek-kr/folio-template?color=blue)](https://github.com/Avishek-kr/folio-template/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/Avishek-kr/folio-template) ![GitHub forks](https://img.shields.io/github/forks/Avishek-kr/folio-template)
 
 ## A minimal portfolio template for Developers!
 
@@ -17,7 +17,7 @@
 ⚡️ Optimized with Webpack\
 ⚡️ Well organized documentation
 
-To view a live example, **[click here](https://folio-template.netlify.com/)**\
+To view a live example, **[click here](https://avishek-folio.netlify.com/)**\
 
 
 ---
